@@ -1,6 +1,12 @@
 # os-shutil-module
 File Organizer
+
+پوشه بندی فایل 
+
 This simple Python script helps you organize files in a specified directory based on their types. It categorizes files into different folders according to their extensions.
+
+این اسکریپت ساده پایتون به شما کمک می‌کند تا فایل‌ها را بر اساس انواع آنها در یک فهرست مشخص سازماندهی کنید. این فایل ها را با توجه به پسوند آنها در پوشه های مختلف دسته بندی می کند.
+
 Usage
 Clone the repository:
 git clone https://github.com/ehsan-shiasi/os-shutil-module.git
